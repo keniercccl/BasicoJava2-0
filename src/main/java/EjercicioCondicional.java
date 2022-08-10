@@ -5,7 +5,7 @@ public class EjercicioCondicional {
     public static void main(String[] args) {
 
         Scanner cap = new Scanner(System.in);
-
+/*Bienvenidos*/
         System.out.println("Bienvenido al cabaret");
         System.out.println("¿cual es tu nombre?");
         String name = cap.next();
